@@ -1,0 +1,26 @@
+h1{
+    color: rgb(236, 54, 54);
+    margin-left: 50%;
+    
+}
+
+.header{
+    background-color: rgb(105, 105, 105);
+    display:flex;
+    justify-content:space-between;
+}
+
+.origami{
+    border-radius: 20px;
+    font-family: cursive;
+}
+
+.grid{
+    border-top: 5px;
+    border:solid;
+    margin: 10mm;
+    margin-right:235mm;
+    border-radius: 22mm;
+    border-width: 1mm;
+    
+ }
